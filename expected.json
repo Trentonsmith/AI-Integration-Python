@@ -1,0 +1,34 @@
+{
+  "inconsistencies": [
+    {
+      "line_nums": [6],
+      "category": "serial_number_inconsistency",
+      "evidence": "0FT3HCDL501560",
+      "description": "Other Samsung QM65 serials are one character longer and end with a capital letter; this one may have been mistyped"
+    },
+    {
+      "line_nums": [9],
+      "category": "naming_inconsistency",
+      "evidence": "MAPLE-04-14 Darwn",
+      "description": "Zoom Name is one letter off from the room name used on every other row for this room"
+    },
+    {
+      "line_nums": [14],
+      "category": "ip_address_inconsistency",
+      "evidence": "10.64.18.113",
+      "description": "IP is in a different subnet from every other device (10.64.12.x); likely a typo"
+    },
+    {
+      "line_nums": [17],
+      "category": "other",
+      "evidence": "c_1889bn54t27hjq2mvx5kd8wp3tz9rn4bc6yf@resource.calendar.googl.com",
+      "description": "Calendar resource domain is misspelled (googl.com instead of google.com)"
+    },
+    {
+      "line_nums": [18],
+      "category": "mac_address_inconsistency",
+      "evidence": "c463fb06d1a2 vs c4:63:fb:05:d1:a2",
+      "description": "Autofilled MAC does not match the raw MAC (4th octet 05 instead of 06)"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+Install Date,AV Completed,Provisioning,Outlook Name,Zoom Name,"Zoom Room
+Display Name","Calendar Resource
+(SMTP address)",PO Number,CRES Number,Manufacturer,Model Number,Equipment Notes,MAC address,"Mac with : 
+(autofilled)",Serial Number,Asset Tag,IP address,IPs Reserved,Installed & Ready to commission,Installer Initials,Commissioning Completed,,Color Coding
+7/6/2026,FALSE,TRUE,MAPLE-04-12 Curie (6),MAPLE-04-12 Curie,Curie,c_1883kd02a97hjq2mvx5kd8wp3tz9rn4bc6yf@resource.calendar.google.com,US0099123,,Neat,Neat Bar 2,,c463fb1e8a10,c4:63:fb:1e:8a:10,NE12548001101,US50101,10.64.12.101,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-12 Curie (6),MAPLE-04-12 Curie,Curie,,US0099123,,Neat,Neat Pad,Controller,c463fb06a1b2,c4:63:fb:06:a1:b2,NA12207004401,,10.64.12.102,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-12 Curie (6),MAPLE-04-12 Curie,Curie,,US0099123,,Neat,Neat Pad,Scheduler,c463fb0db3c4,c4:63:fb:0d:b3:c4,NA12347005501,,10.64.12.103,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-12 Curie (6),MAPLE-04-12 Curie,Curie,,US0099123,,MidAtlantic,RLNK-215R,,001ec501b0d1,001ec501b0d10000,215-01B0D1,US50102,10.64.12.104,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-12 Curie (6),MAPLE-04-12 Curie,Curie,,US0099123,,Samsung,QM65,,cc20ac69b1e2,cc:20:ac:69:b1:e2,0FT3HCDL501560,US50103,10.64.12.105,FALSE,FALSE,,FALSE,,
+7/6/2026,FALSE,TRUE,MAPLE-04-14 Darwin (8),MAPLE-04-14 Darwin,Darwin,c_1886pq71m47hjq2mvx5kd8wp3tz9rn4bc6yf@resource.calendar.google.com,US0099123,,Neat,Neat Bar 2,,c463fb1e8a24,c4:63:fb:1e:8a:24,NE12548001102,US50104,10.64.12.106,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-14 Darwin (8),MAPLE-04-14 Darwin,Darwin,,US0099123,,Neat,Neat Pad,Controller,c463fb06a1c6,c4:63:fb:06:a1:c6,NA12207004402,,10.64.12.131,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-14 Darwin (8),MAPLE-04-14 Darwn,Darwin,,US0099123,,Neat,Neat Pad,Scheduler,c463fb0db3d8,c4:63:fb:0d:b3:d8,NA12347005502,,10.64.12.132,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-14 Darwin (8),MAPLE-04-14 Darwin,Darwin,,US0099123,,MidAtlantic,RLNK-215R,,001ec501b0e5,001ec501b0e50000,215-01B0E5,US50105,10.64.12.109,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-14 Darwin (8),MAPLE-04-14 Darwin,Darwin,,US0099123,,Samsung,QM65,,cc20ac69b1f6,cc:20:ac:69:b1:f6,0FT3HCDL501561K,US50106,10.64.12.110,FALSE,FALSE,,FALSE,,
+7/7/2026,FALSE,TRUE,MAPLE-04-16 Hopper (4),MAPLE-04-16 Hopper,Hopper,c_1881ws38e67hjq2mvx5kd8wp3tz9rn4bc6yf@resource.calendar.google.com,US0099123,,Neat,Neat Bar 2,,c463fb1e8a38,c4:63:fb:1e:8a:38,NE12548001103,US50107,10.64.12.111,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-16 Hopper (4),MAPLE-04-16 Hopper,Hopper,,US0099123,,Neat,Neat Pad,Controller,c463fb06a1da,c4:63:fb:06:a1:da,NA12207004403,,10.64.12.112,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-16 Hopper (4),MAPLE-04-16 Hopper,Hopper,,US0099123,,Neat,Neat Pad,Scheduler,c463fb0db3ec,c4:63:fb:0d:b3:ec,NA12347005503,,10.64.18.113,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-16 Hopper (4),MAPLE-04-16 Hopper,Hopper,,US0099123,,MidAtlantic,RLNK-215R,,001ec501b0f9,001ec501b0f90000,215-01B0F9,US50108,10.64.12.114,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-16 Hopper (4),MAPLE-04-16 Hopper,Hopper,,US0099123,,Samsung,QM65,,cc20ac69b20a,cc:20:ac:69:b2:0a,0FT3HCDL501562R,US50109,10.64.12.115,FALSE,FALSE,,FALSE,,
+7/7/2026,FALSE,TRUE,MAPLE-04-18 Lovelace (10),MAPLE-04-18 Lovelace,Lovelace,c_1889bn54t27hjq2mvx5kd8wp3tz9rn4bc6yf@resource.calendar.googl.com,US0099123,,Neat,Neat Bar 2,,c463fb1e8a4c,c4:63:fb:1e:8a:4c,NE12548001104,US50110,10.64.12.116,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-18 Lovelace (10),MAPLE-04-18 Lovelace,Lovelace,,US0099123,,Neat,Neat Pad,Controller,c463fb06d1a2,c4:63:fb:05:d1:a2,NA12207004404,,10.64.12.141,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-18 Lovelace (10),MAPLE-04-18 Lovelace,Lovelace,,US0099123,,Neat,Neat Pad,Scheduler,c463fb0db400,c4:63:fb:0d:b4:00,NA12347005504,,10.64.12.142,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-18 Lovelace (10),MAPLE-04-18 Lovelace,Lovelace,,US0099123,,MidAtlantic,RLNK-215R,,001ec501b10d,001ec501b10d0000,215-01B10D,US50111,10.64.12.119,FALSE,FALSE,,FALSE,,
+,,,MAPLE-04-18 Lovelace (10),MAPLE-04-18 Lovelace,Lovelace,,US0099123,,Samsung,QM65,,cc20ac69b21e,cc:20:ac:69:b2:1e,0FT3HCDL501563J,US50112,10.64.12.120,FALSE,FALSE,,FALSE,,
